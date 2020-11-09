@@ -1,0 +1,10 @@
+eggs	4
+potato	30
+bacon	12
+toast	65
+cherry	22
+apple	45
+pancake	333
+bagel	13
+croissant	1
+turkey-bacon	79

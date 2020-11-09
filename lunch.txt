@@ -1,0 +1,10 @@
+sandwich	22
+burger	10
+pretzel	29
+salad	0
+spaghetti	34
+ramen	21
+padthai	99
+lasagna	19
+tilapia	53
+chicken	100

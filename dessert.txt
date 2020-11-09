@@ -1,0 +1,10 @@
+icecream	4
+cake	33
+pie	82
+candy	92
+mochi	1000
+puddy	3
+friedoreo	88
+churros	93
+smoothie	43
+milkshake	20
